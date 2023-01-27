@@ -5,7 +5,11 @@ async function GetTransactions() {
 }
 
 const ListView = () => {
-  return <h1>test</h1>;
+  return (
+    <main>
+      <p>hi</p>
+    </main>
+  );
 };
 
 export default ListView;
